@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Background">
+    <file>window.png</file>
+  </qresource>
+  <qresource prefix="transparent">
+    <file>banner-wave-3.svg</file>
+  </qresource>
+</RCC>
